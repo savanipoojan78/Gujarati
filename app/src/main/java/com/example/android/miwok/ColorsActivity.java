@@ -62,7 +62,7 @@ public class ColorsActivity extends AppCompatActivity {
         words.add(new Word("yellow", "પીળું", R.drawable.color_mustard_yellow,
                 R.raw.color_yellow));
 
-        words.add(new Word("green", "લીલું", R.drawable.color_green, R.raw.color_green));
+//        words.add(new Word("green", "લીલું", R.drawable.color_green, R.raw.color_green));
         words.add(new Word("brown", "કથ્થઈ", R.drawable.color_brown, R.raw.color_brown));
         words.add(new Word("gray", "ભૂખરા", R.drawable.color_gray, R.raw.color_grey));
         words.add(new Word("black", "કાળો", R.drawable.color_black, R.raw.color_black));
